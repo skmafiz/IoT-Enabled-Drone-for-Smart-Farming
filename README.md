@@ -57,3 +57,32 @@ Drones have formerly extensively altered agricultural assiduity and will continu
 • [Loiter (position hold mode), Altitude hold mode and RTL (return to launch) features testing](https://drive.google.com/file/d/1rQN6e9pxtuWrldaFWYM3D_GxEpXNIOds/view?usp=sharing)
 
 
+## The ArduPilot project is made up of: ##
+
+- ArduCopter: [code](https://github.com/ArduPilot/ardupilot/tree/master/ArduCopter), [wiki](https://ardupilot.org/copter/index.html)
+
+- ArduPlane: [code](https://github.com/ArduPilot/ardupilot/tree/master/ArduPlane), [wiki](https://ardupilot.org/plane/index.html)
+
+- Rover: [code](https://github.com/ArduPilot/ardupilot/tree/master/Rover), [wiki](https://ardupilot.org/rover/index.html)
+
+- ArduSub : [code](https://github.com/ArduPilot/ardupilot/tree/master/ArduSub), [wiki](http://ardusub.com/)
+
+- Antenna Tracker : [code](https://github.com/ArduPilot/ardupilot/tree/master/AntennaTracker), [wiki](https://ardupilot.org/antennatracker/index.html)
+
+
+## Developer Information ##
+
+- Github repository: <https://github.com/ArduPilot/ardupilot>
+
+- Main developer wiki: <https://ardupilot.org/dev/>
+
+- Developer discussion: <https://discuss.ardupilot.org>
+
+- Developer chat: <https://discord.com/channels/ardupilot>
+
+
+### Acknowledgment
+
+We acknowledge the [ArduPilot](https://github.com/ArduPilot/ardupilot) project as a foundational open-source resource in understanding flight control logic and integrating UAV systems with IoT for smart farming applications.
+
+
